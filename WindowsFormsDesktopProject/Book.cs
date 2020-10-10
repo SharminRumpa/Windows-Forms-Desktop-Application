@@ -65,9 +65,9 @@ namespace WindowsFormsDesktopProject
                     {
                         da.Fill(ds, "BooksDetails");
                     }
-                    catch (Exception ee)
+                    catch (Exception ex)
                     {
-
+                        throw ex;
                     }
 
                     if (ds.Tables.Count == 0)
