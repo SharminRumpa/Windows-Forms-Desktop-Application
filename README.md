@@ -5,8 +5,8 @@
    * __Project Name :__ Windows Forms Desktop Application
    * __Project Description :__  
         * Register New User
-		    * Login System
-		    * CRUD Oparation with Image
+        * Login System
+        * CRUD Oparation with Image
 
 ### Tools and Technologies: 
    * Microsoft Visual Studio 2019	
