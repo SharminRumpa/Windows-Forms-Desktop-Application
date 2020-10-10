@@ -6,7 +6,7 @@
    * __Project Description :__  
         * Register New User
         * Login System
-        * CRUD Oparation with Image
+        * CRUD Operation with Image
 
 ### Tools and Technologies: 
    * Microsoft Visual Studio 2019	
